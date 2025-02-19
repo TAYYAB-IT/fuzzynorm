@@ -1,6 +1,6 @@
 {
   "name": "fuzzynorm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript library for fuzzy string matching with normalization.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
