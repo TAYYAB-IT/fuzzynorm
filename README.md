@@ -172,7 +172,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Author**
 
-👤 **Your Name**  
+👤 **Tayyab Aman**  
 - GitHub: [@TAYYAB-IT](https://github.com/TAYYAB-IT)  
 - Email: tayyab.aman142@gmail.com  
 
